@@ -29,7 +29,4 @@ Acá los 8 temas:
 
 Por supuesto no será un software complejo, abarcaremos todos los temas desde un enfoque sencillo, sin preocuparnos demasiado por conceptos avanzados de arquitectura, simplemente el objetivo será que te sientas medianamente cómodo en .NET y por supuesto que puedas avanzar en temas más profundos.
 
-<div data-node-type="callout">
-<div data-node-type="callout-emoji">💡</div>
-<div data-node-type="callout-text">Suscríbete al Blog y obtendrás en tu buzón de correo todas las novedades.</div>
-</div>
+Puedes seguir el desarrollo a través de las publicaciones de https://parejajd.co 
