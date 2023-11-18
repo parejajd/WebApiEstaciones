@@ -1,0 +1,15 @@
+C:\Demos\WebApiEstaciones\Servicios\bin\Debug\net8.0\Servicios.deps.json
+C:\Demos\WebApiEstaciones\Servicios\bin\Debug\net8.0\Servicios.dll
+C:\Demos\WebApiEstaciones\Servicios\bin\Debug\net8.0\Servicios.pdb
+C:\Demos\WebApiEstaciones\Servicios\bin\Debug\net8.0\Modelos.dll
+C:\Demos\WebApiEstaciones\Servicios\bin\Debug\net8.0\Modelos.pdb
+C:\Demos\WebApiEstaciones\Servicios\obj\Debug\net8.0\Servicios.csproj.AssemblyReference.cache
+C:\Demos\WebApiEstaciones\Servicios\obj\Debug\net8.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\WebApiEstaciones\Servicios\obj\Debug\net8.0\Servicios.AssemblyInfoInputs.cache
+C:\Demos\WebApiEstaciones\Servicios\obj\Debug\net8.0\Servicios.AssemblyInfo.cs
+C:\Demos\WebApiEstaciones\Servicios\obj\Debug\net8.0\Servicios.csproj.CoreCompileInputs.cache
+C:\Demos\WebApiEstaciones\Servicios\obj\Debug\net8.0\Servicios.csproj.CopyComplete
+C:\Demos\WebApiEstaciones\Servicios\obj\Debug\net8.0\Servicios.dll
+C:\Demos\WebApiEstaciones\Servicios\obj\Debug\net8.0\refint\Servicios.dll
+C:\Demos\WebApiEstaciones\Servicios\obj\Debug\net8.0\Servicios.pdb
+C:\Demos\WebApiEstaciones\Servicios\obj\Debug\net8.0\ref\Servicios.dll
