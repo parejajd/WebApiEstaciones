@@ -1,0 +1,16 @@
+C:\Demos\WebApiEstaciones\AccesoADatos\obj\Debug\net8.0\AccesoADatos.csproj.AssemblyReference.cache
+C:\Demos\WebApiEstaciones\AccesoADatos\obj\Debug\net8.0\AccesoADatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\WebApiEstaciones\AccesoADatos\obj\Debug\net8.0\AccesoADatos.AssemblyInfoInputs.cache
+C:\Demos\WebApiEstaciones\AccesoADatos\obj\Debug\net8.0\AccesoADatos.AssemblyInfo.cs
+C:\Demos\WebApiEstaciones\AccesoADatos\obj\Debug\net8.0\AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Demos\WebApiEstaciones\AccesoADatos\obj\Debug\net8.0\AccesoADatos.sourcelink.json
+C:\Demos\WebApiEstaciones\AccesoADatos\bin\Debug\net8.0\AccesoADatos.deps.json
+C:\Demos\WebApiEstaciones\AccesoADatos\bin\Debug\net8.0\AccesoADatos.dll
+C:\Demos\WebApiEstaciones\AccesoADatos\bin\Debug\net8.0\AccesoADatos.pdb
+C:\Demos\WebApiEstaciones\AccesoADatos\bin\Debug\net8.0\Modelos.dll
+C:\Demos\WebApiEstaciones\AccesoADatos\bin\Debug\net8.0\Modelos.pdb
+C:\Demos\WebApiEstaciones\AccesoADatos\obj\Debug\net8.0\AccesoADatos.csproj.CopyComplete
+C:\Demos\WebApiEstaciones\AccesoADatos\obj\Debug\net8.0\AccesoADatos.dll
+C:\Demos\WebApiEstaciones\AccesoADatos\obj\Debug\net8.0\refint\AccesoADatos.dll
+C:\Demos\WebApiEstaciones\AccesoADatos\obj\Debug\net8.0\AccesoADatos.pdb
+C:\Demos\WebApiEstaciones\AccesoADatos\obj\Debug\net8.0\ref\AccesoADatos.dll

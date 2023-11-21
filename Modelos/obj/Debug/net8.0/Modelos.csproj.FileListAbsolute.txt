@@ -9,3 +9,4 @@ C:\Demos\WebApiEstaciones\Modelos\obj\Debug\net8.0\Modelos.dll
 C:\Demos\WebApiEstaciones\Modelos\obj\Debug\net8.0\refint\Modelos.dll
 C:\Demos\WebApiEstaciones\Modelos\obj\Debug\net8.0\Modelos.pdb
 C:\Demos\WebApiEstaciones\Modelos\obj\Debug\net8.0\ref\Modelos.dll
+C:\Demos\WebApiEstaciones\Modelos\obj\Debug\net8.0\Modelos.sourcelink.json
