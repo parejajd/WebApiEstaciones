@@ -1,0 +1,49 @@
+{
+    "configurations": [        
+        {
+            "name": "Iniciar Blazor",
+            "type": "blazorwasm",
+            "request": "launch",
+            "preLaunchTask": "Compilar Blazor",
+            "program": "${workspaceFolder}/BlazorWeb/bin/Debug/net8.0/BlazorWeb.dll", 
+            "cwd": "${workspaceFolder}/BlazorWeb",
+            "serverReadyAction": {
+                "action": "openExternally",
+                "pattern": "\\bNow listening on:\\s+(https?://\\S+)"
+            },
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            }
+        },
+        {
+            "name": "Iniciar Web Api",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "Compilar WebApi",
+            "program": "${workspaceFolder}/WebApi/bin/Debug/net8.0/WebApi.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/WebApi",
+            "stopAtEntry": false,
+            "serverReadyAction": {
+                "action": "openExternally",
+                "pattern": "\\bNow listening on:\\s+(https?://\\S+)"
+            },
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            },
+            "sourceFileMap": {
+                "/Views": "${workspaceFolder}/Views"
+            }
+        }
+    ],
+    "compounds": [
+        {
+            "name": "Iniciar Solución",
+            "configurations": [
+                "Iniciar Web Api",
+                "Iniciar Blazor"
+            ],
+            "stopAll": true
+        }
+    ]
+}
